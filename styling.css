@@ -17,16 +17,6 @@ header {
     width: 100%;
 }
 
-.center-me {
-    /* Add specific styles for the centered element (e.g., width, background) */
-    width: 50%;
-    background-color: lightblue;
-    padding: 1rem;
-    text-align: center;
-}
-
-  
-
 form{
     font-size: 20px;
     background-color: lightgoldenrodyellow;
