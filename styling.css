@@ -4,23 +4,13 @@ header {
     text-align: center;
     </br>
 }
-    .parent {
+ .container {
   display: flex;
-  justify-content: center; 
-  align-items: center;    
-  min-height: 100vh;      
-} 
-    
-    body {
-        margin: 0;
-        padding: 0;
-    }
-  .wrapper {
-    width: 100%;           
-    max-width: 960px;     
-    margin: 0 auto;      
-    padding: 0 15px;      
-  }  
+  justify-content: center;
+  align-items: center;     
+  flex-direction: column;  
+  height: 100vh;           
+}
   
 
 form{
