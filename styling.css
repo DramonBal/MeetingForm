@@ -4,6 +4,16 @@ header {
     text-align: center;
     </br>
 }
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    .wrapper {
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
 
 form{
     font-size: 20px;
