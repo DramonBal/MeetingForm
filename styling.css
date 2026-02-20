@@ -21,6 +21,7 @@ header {
 }   
 
 form{
+    color: red;
     font-size: 20px;
     background-color: lightgoldenrodyellow;
     padding: 10px;
@@ -30,6 +31,7 @@ form{
 }
 form > label{
 /*    background-color: greenyellow;*/
+    font-size: 1em;
     grid-column: label;
 }
 form > input{
