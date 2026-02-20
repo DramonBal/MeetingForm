@@ -31,7 +31,7 @@ form{
 }
 form > label{
 /*    background-color: greenyellow;*/
-    font-size: .o5em;
+    font-size: .5em;
     grid-column: label;
 }
 form > input{
