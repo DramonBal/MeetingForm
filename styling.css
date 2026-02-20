@@ -4,6 +4,11 @@ header {
     text-align: center;
     </br>
 }
+    h1 {
+        text-align: center;
+        color: red;
+    }
+    
  .container {
   display: flex;
   justify-content: center;
