@@ -12,6 +12,7 @@ header {
   flex-direction: column;  
   height: 100vh;           
 }
+    
    .parent {
   display: flex;
   justify-content: center;
