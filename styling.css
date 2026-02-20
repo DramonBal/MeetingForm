@@ -25,9 +25,9 @@ header {
   
 
 form{
-    font-size: 30px;
+    font-size: 15px;
     background-color: lightgoldenrodyellow;
-    padding: 15px;
+    padding: 10px;
     display: grid;
     grid-gap: 5px;
     grid-template-columns: [label] auto [input] 1fr;
