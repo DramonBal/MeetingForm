@@ -22,6 +22,7 @@ header {
 
 form{
     color: blue;
+    font-size: 1em;
     background-color: lightgoldenrodyellow;
     padding: 10px;
     display: grid;
