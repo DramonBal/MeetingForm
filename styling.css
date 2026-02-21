@@ -2,8 +2,8 @@ header {
     box-sizing: border-box;
     text-align: center;
     color: red;
-    </br>
 }   
+</br>
     
  .container {
   display: flex;
@@ -22,7 +22,7 @@ header {
 
 form{
     color: blue;
-    font-size: 20px;
+    font-size: 15px;
     background-color: lightgoldenrodyellow;
     padding: 10px;
     display: grid;
@@ -31,6 +31,7 @@ form{
 }
 form > label{
 /*    background-color: greenyellow;*/
+      font-size: 1em;
       grid-column: label;
 }
 form > input{
