@@ -1,5 +1,4 @@
 header {
-    font-size: 15px;
     box-sizing: border-box;
     text-align: center;
     color: red;
@@ -23,7 +22,7 @@ header {
 
 form{
     color: blue;
-    font-size: 10px;
+    font-size: 15px;
     background-color: lightgoldenrodyellow;
     padding: 10px;
     display: grid;
